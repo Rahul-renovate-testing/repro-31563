@@ -1,0 +1,7 @@
+{
+  "packageRules": [{
+    "matchPackageNames": ["node"],
+    "rollbackPrs": true,
+    "allowedVersions": ["<20.16.0"]
+  }]
+}
